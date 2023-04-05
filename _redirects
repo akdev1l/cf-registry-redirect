@@ -1,1 +1,1 @@
-/v2/:image_path https://ghcr.io/v2/:image_path 302
+/v2/* https://ghcr.io/v2/:splat 302
